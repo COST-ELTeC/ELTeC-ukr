@@ -1,6 +1,6 @@
 # ELTeC-ukr
 
-This is the English novel collection for the ELTeC, the European Literary Text Collection, 
+This is the Ukrainian novel collection for the ELTeC, the European Literary Text Collection, 
 produced by the COST Action Distant Reading for European Literary History (CA16204, https://distant-reading.net). 
 
 ## Release notes
