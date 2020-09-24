@@ -4,8 +4,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="viaf:8324152140006711100006">Boa constrictor : Повість : ELTeC видання</title>
-          <author ref="viaf:174457485">Франко, Іван (1856-1916)</author>
+        <title>Boa constrictor : Повість : ELTeC видання</title>
+          <author ref="viaf:10637190">Франко, Іван (1856-1916)</author>
         <respStmt>
           <resp>ELTeC conversion</resp>
           <name>Dmytro Yesypenko</name>
