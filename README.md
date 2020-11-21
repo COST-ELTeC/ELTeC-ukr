@@ -9,7 +9,7 @@ General information about ELTeC releases is available at https://github.com/COST
 
 ## Contributors
 
-Dmytro Yesypenko (Taras Shevchenko Institute of Literature, National Academy of Sciences of Ukraine)
+Dmytro Yesypenko (Taras Shevchenko Institute of Literature, National Academy of Sciences of Ukraine), Mykhailo Nazarenko (Kyiv Taras Shevchenko National University)
 
 ## Licence
 
