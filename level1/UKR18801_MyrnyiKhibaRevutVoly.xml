@@ -5,8 +5,8 @@
       <fileDesc>
          <titleStmt>
             <title ref="viaf:310215026">Хіба ревуть воли, як ясла повні? Роман з народнього життя : ELTeC видання</title>
-            <author ref="viaf:885380">Мирний, Панас [Рудченко, Панас] (1849-1920)</author>
-            <author ref="viaf:288856602">Білик, Іван [Рудченко, Іван] (1845-1905)</author>
+            <author ref="viaf:885380">Мирний, Панас [Панас Рудченко] (1849-1920)</author>
+            <author ref="viaf:288856602">Білик, Іван [Іван Рудченко] (1845-1905)</author>
             <respStmt>
                <resp>ELTeC conversion</resp>
                <name>Dmytro Yesypenko</name>
@@ -26,7 +26,6 @@
                <pubPlace>Женева</pubPlace>
                <publisher>H. Georg Libraire-Editeur</publisher>
                <date>1880</date>
-            </bibl><bibl type="firstEdition">
             </bibl>
             <bibl type="digitalSource">
                <title>Панас Мирний. Хіба ревуть воли, як ясла повні?</title>
