@@ -1,13 +1,19 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4662617.svg)](https://doi.org/10.5281/zenodo.4662617)
+
 # ELTeC-ukr
 
 This is the Ukrainian novel collection for the ELTeC, the European Literary Text Collection, 
 produced by the COST Action Distant Reading for European Literary History (CA16204, https://distant-reading.net). 
 
+## Citation suggestion
+
+* Ukrainian Novel Corpus (ELTeC-ukr), edited by Dmytro Yesypenko and Mykhailo Nazarenko, Version 0.5.0, April 2021. In: *European Literary Text Collection (ELTeC)*. COST Action Distant Reading for European Literary History. DOI: https://doi.org/10.5281/zenodo.4662731
+
 ## Release notes
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC.
 
-* v0.5.0, April 2021: This release contains 50 novels encoded at level 1. DOI: https://doi.org/10.5281/zenodo.4662617. 
+* v0.5.0, April 2021: This release contains 50 novels encoded at level 1. DOI: https://doi.org/10.5281/zenodo.4662731. 
 
 ## Contributors
 
