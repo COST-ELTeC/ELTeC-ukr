@@ -5,7 +5,9 @@ produced by the COST Action Distant Reading for European Literary History (CA162
 
 ## Release notes
 
-General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC.  
+General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC.
+
+* v0.5.0, April 2021: This release contains 50 novels encoded at level 1. DOI: https://doi.org/10.5281/zenodo.4662617. 
 
 ## Contributors
 
