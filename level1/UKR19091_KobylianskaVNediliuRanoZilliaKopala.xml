@@ -2342,19 +2342,16 @@
          <p>Довго, довго дивиться вона на них — далі відвертається...</p>
          <milestone unit="subchapter" rend="dots"/>
          <p>Відвели Іваниху Дубиху.</p>
-         
+       <trailer>Чернівці, в цвітні 1908.</trailer>
+       
       </body>
       <back>
-         <div type="liminal">
-            <p>Чернівці, в цвітні 1908.</p>
-         </div>
+         
          
          <div type="notes">
             <note xml:id="UKR19091N01">Фортуна - щастє.</note>
-         </div>
-         
-         <div type="notes">
-            <note xml:id="UKR19091NO2">Рай- циган-проводир.</note>
+        
+            <note xml:id="UKR19091N02">Рай- циган-проводир.</note>
          </div>
          </back>   
     
