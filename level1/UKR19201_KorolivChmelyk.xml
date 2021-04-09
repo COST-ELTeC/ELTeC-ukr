@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="uk" xml:id="UKR19201">
    <teiHeader>
       <fileDesc>
@@ -16,21 +19,24 @@
             <measure unit="pages">419</measure>
          </extent>
          <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="printSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662616">ELTeC-$textLang</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662731">ELTeC-$textLang release 0.5.0</ref>
+<!----></publicationStmt>
+         <sourceDesc><bibl type="printSource">
                <author>Василь Королів-Старий</author>
                <title>Чмелик. Роман для юнацтва з ілюстраціями</title>
                <pubPlace>Прага</pubPlace>
                <publisher>Друкарня "Політики"</publisher>
                <date>1920</date>
-            </bibl>
-            <bibl type="digitalSource">
+            </bibl><bibl type="digitalSource">
                <title>Василь Королів-Старий, Чмелик</title>
-               <ref target="https://chtyvo.org.ua/authors/Koroliv_Staryi/Chmelyk/"></ref>
-            </bibl>     
-         </sourceDesc>
+               <ref target="https://chtyvo.org.ua/authors/Koroliv_Staryi/Chmelyk/"/>
+            </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p/>
@@ -47,6 +53,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
          <change when="2020-10-05">Initially crated as an ELTeC file</change>
       </revisionDesc>
       
@@ -3969,7 +3976,7 @@
          <p>Але, який же це добрий чоловік! Він не забув і про мене! Знаючи з моїх листів, що я згубив всяку надію одібрати якусь звістку з дому, він доручив тому посланцеві, що віз його листи (один з вояків, що везли якісь військові приладдя до Росії), щоб той дав по київських українських газетах оповістку, що, мовляв, Максим Крушенко просить своїх приятелів написати йому й передати листи по такій-то адресі. Виявилось, що українських газет нема жодних, бо московська влада всі наші видання заборонила з перших днів війни. Однак той чоловік догадався й подав оповістку в київську російську газету, а її прочитали В’ячеслав В’ячеславович та Олекса Іванович. Останній — не диво: він завжди читає все, що є в газеті. І от, я маю картку від Олекси Івановича та листа від Старушка.</p>
          <milestone unit="subchapter" rend="stars"/>
          <p>"<foreign><emph>Дорогой Макс!</emph></foreign></p>
-         <p><foreign>Не знаю, дойдет ли к тебе эта открытка<ref target="#UKR19201N102">*)</ref>, но делаю пробу. Коротко тебе скажу: переживаем большие испытания, но надеемся на благополучный конец. Мы живы, хотя сильно измучились. А я лично<ref target="#UKR19201N103">**)</ref> страшно утомлен: приходится, брат, работать за троих, отсутствующих.</foreign>foreign></p>
+         <p><foreign>Не знаю, дойдет ли к тебе эта открытка<ref target="#UKR19201N102">*)</ref>, но делаю пробу. Коротко тебе скажу: переживаем большие испытания, но надеемся на благополучный конец. Мы живы, хотя сильно измучились. А я лично<ref target="#UKR19201N103">**)</ref> страшно утомлен: приходится, брат, работать за троих, отсутствующих.</foreign>foreign&gt;</p>
          <p><foreign>Харитина постарела, прихварывает. Квартирант твой ушел на фронт, остались его жена и дети. Самзнай охромел:<ref target="#UKR19201N104">***)</ref> говорят, его кто-то сильно ударил по ногам.</foreign></p>
          <p><foreign>Полтава заметно изменилась, но не в лучшую сторону. Очень хотелось бы знать, где ты теперь и все ли у тебя благополучно? Последнее твое письмо было из Кохигамы.</foreign></p>
          <p><emph><foreign>Целуем и обнимаем тебя я и Н. Твой А. К.</foreign></emph>"</p>

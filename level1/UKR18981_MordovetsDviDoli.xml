@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="uk" xml:id="UKR18981">
    <teiHeader>
       <fileDesc>
@@ -16,17 +19,20 @@
             <measure unit="pages">143</measure>
          </extent>
          <publicationStmt>
-            <p/>
-         </publicationStmt>
-         <sourceDesc>
-
-            <bibl type="firstEdition">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662616">ELTeC-$textLang</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662731">ELTeC-$textLang release 0.5.0</ref>
+<!----></publicationStmt>
+         <sourceDesc><bibl type="firstEdition">
                <title>Літературно-науковий вістник. Том 2-6</title>
                <author>Михайло Грушевський, ред.</author>
                <publisher>Львів: Друкарня Наукового товариства імені Шевченка</publisher>
                <date>1898</date>
-            </bibl>
-         </sourceDesc>
+            </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p/>
@@ -43,6 +49,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
          <change when="2020-10-24">Initially created as an ELTeC file</change>
       </revisionDesc>
       
@@ -776,7 +783,7 @@
          
          <p>– Оцей, дівоньки, старець Хома з Мерехви усе співає про запорожців, та так гарно, що Господи! – говорила одна дівчина.</p>
          <p>– Та я ж чула, як він співав і про старого Хмеля, і про козака Голоту; таке чудне! – говорила друга.</p>
-         <p>>А той старець Хома, покинувши і “могилочку”, і “долиночку”, почав лагодити щось інше: </p>
+         <p>&gt;А той старець Хома, покинувши і “могилочку”, і “долиночку”, почав лагодити щось інше: </p>
          
          <quote><l>Ой пішли, пішли славні запорожці та не пішки – дубами,</l>
          <l>А як оглянуться до славної Січі, то вмиються сльозами... </l></quote>
@@ -1793,5 +1800,3 @@
    
    </text>
 </TEI>
-
-
