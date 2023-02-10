@@ -1,0 +1,50 @@
+corpus-id	filename	xmlid	author-name	title	author-birth	author-death	author-gender	author-ids	reference-year	first-edition	digital-edition	print-edition	provenance	title-ids	language	numwords	subgenre	narrative-perspective	size-category	reprint-count	time-slot
+ELTeC-ukr	UKR18411_KvitkaSerdeshnaOksana	UKR18411	Квітка-Основ'яненко, Григорій	Сердешна Оксана	1778	1843	M	viaf:54960129	1841	NA	NA	1841	NA	NA	uk	18114	NA	NA	short	high	T1
+ELTeC-ukr	UKR18571_KulishChornaRada	UKR18571	Куліш, Пантелеймон	Чорна рада, хроніка 1663 року	1819	1897	M	viaf:62360468	1857	NA	NA	1857	NA	viaf:1832153411869041700005	uk	51378	NA	NA	medium	high	T1
+ELTeC-ukr	UKR18582_KvitkaKozyrDivka	UKR18582	Квітка-Основ'яненко, Григорій	Козир-дівка	1778	1843	M	viaf:54960129	1858	NA	NA	1858	NA	NA	uk	18895	NA	NA	short	high	T1
+ELTeC-ukr	UKR18581_KvitkaKonotopskaVidma	UKR18581	Квітка-Основ'яненко, Григорій	Конотопська відьма	1778	1843	M	viaf:54960129	1858	NA	NA	1858	NA	NA	uk	25363	NA	NA	short	high	T1
+ELTeC-ukr	UKR18583_VovchokKozachka	UKR18583	Вовчок, Марко [Марія Вілінська]	Козачка	1833	1907	F	NA	1858	NA	NA	1858	NA	NA	uk	5007	NA	NA	short	high	T1
+ELTeC-ukr	UKR18611_KulishBilozerskaNeBuloZmalku	UKR18611	Нечуй-Вітер, А. [Олександра Куліш-Білозерська]	Не було змалку - не буде й до'станку	1828	1911	F	viaf:42775613	1861	1861	NA	NA	NA	NA	uk	10041	NA	NA	short	low	T2
+ELTeC-ukr	UKR18621_VovchokInstytutka	UKR18621	Вовчок, Марко [Марія Вілінська]	Інститутка	1833	1907	F	viaf:32150777	1862	NA	NA	1862	NA	NA	uk	11695	NA	NA	short	high	T2
+ELTeC-ukr	UKR18622_VovchokVidSebeNeVtechesh	UKR18622	Вовчок, Марко [Марія Вілінська]	Від себе не втечеш	1833	1907	F	viaf:32150777	1862	1862	NA	NA	NA	NA	uk	10311	NA	NA	short	low	T2
+ELTeC-ukr	UKR18651_VovchokDeviatBrativ	UKR18651	Вовчок, Марко [Марія Вілінська]	Дев'ять братів і десята сестриця Галя	1833	1907	F	NA	1865	NA	NA	1865	NA	NA	uk	13186	NA	NA	short	high	T2
+ELTeC-ukr	UKR18722_MyrnyiLykhyiPoputav	UKR18722	Мирний, Панас [Панас Рудченко]	Лихий попутав. Оповідання	1849	1920	M	viaf:885380	1872	1872	NA	NA	NA	NA	uk	10470	NA	NA	short	high	T2
+ELTeC-ukr	UKR18731_FedkovychFarmazony	UKR18731	Федькович, Юрій	Фармазони	1834	1888	M	viaf:8200461	1873	NA	NA	1873	NA	NA	uk	14104	NA	NA	short	low	T2
+ELTeC-ukr	UKR18751_KonyskyiSemenZhuk	UKR18751	Яковенко, О. [Олександр Кониський]	Семен Жук і його родичі. Хроніка	1836	1900	M	viaf:21985169	1875	1875	NA	NA	NA	NA	uk	49789	NA	NA	medium	low	T2
+ELTeC-ukr	UKR18771_BarvinokSkoshenyiTsvit	UKR18771	Барвінок, Василь [Володимир Барвінський]	Скошений цвіт (Виїмок з галицьких образків)	1850	1883	M	NA	1877	NA	NA	1877	NA	NA	uk	51674	NA	NA	medium	low	T2
+ELTeC-ukr	UKR18791_StorozhenkoMarkoProkliatyi	UKR18791	Стороженко, Олекса	Марко Проклятий. Поема	1806	1874	M	viaf:179372193	1879	NA	NA	1879	NA	NA	uk	27877	NA	NA	short	low	T2
+ELTeC-ukr	UKR18801_MyrnyiKhibaRevutVoly	UKR18801	Мирний, Панас [Панас Рудченко]	Хіба ревуть воли, як ясла повні? Роман з народнього життя	1849	1920	M	viaf:885380	1880	NA	NA	1880	NA	viaf:310215026	uk	102859	NA	NA	long	high	T3
+ELTeC-ukr	UKR18993_LevytskyiHetmanIvanVyhovskyi	UKR18993	NA	Гетьман Іван Виговський. Історична повість	1837	1918	M	viaf:15568005	1880	NA	NA	NA	NA	NA	uk	82525	NA	NA	medium	high	T3
+ELTeC-ukr	UKR19011_HrinchenkoSeredTemnoiNochi	UKR19011	Грінченко, Борис	Серед темної ночі	1863	1910	M	viaf:30853725	1883	1883	NA	1901	NA	NA	uk	49551	NA	NA	medium	high	T4
+ELTeC-ukr	UKR18831_FrankoZakharBerkut	UKR18831	Франко, Іван	Захар Беркут : Образ громадського життя Карпатської Русі в XIII віці	1856	1916	M	viaf:10637190	1883	NA	NA	1883	NA	NA	uk	50132	NA	NA	medium	high	T3
+ELTeC-ukr	UKR18841_FrankoBoaConstrictor	UKR18841	Франко, Іван	Boa constrictor : Повість	1856	1916	M	viaf:10637190	1884	NA	NA	1884	NA	NA	uk	25414	NA	NA	short	high	T3
+ELTeC-ukr	UKR18871_PchilkaTovaryshky	UKR18871	Пчілка, Олена [Ольга Косач]	Товаришки : Оповідання	1849	1930	F	viaf:60246296	1887	NA	NA	1887	NA	NA	uk	29419	NA	NA	short	low	T3
+ELTeC-ukr	UKR18942_KobylianskaLiudyna	UKR18942	Кобилянська, Ольга	Людина. Повість з життя жіночого	1863	1942	F	viaf:317288905	1894	1894	NA	NA	NA	NA	uk	18625	NA	NA	short	high	T3
+ELTeC-ukr	UKR18941_UkrainkaZhal	UKR18941	Українка, Леся [Лариса Косач]	Жаль. Оповідання	1871	1913	F	viaf:22278310	1894	1894	NA	NA	NA	NA	uk	18770	NA	NA	short	high	T3
+ELTeC-ukr	UKR18951_KrymskyiNePorozumiiutsia	UKR18951	Кримський, Агатангел	Не порозуміються. (Оповідання).	1871	1942	M	viaf:52563935	1895	NA	NA	1895	NA	NA	uk	10254	NA	NA	short	low	T3
+ELTeC-ukr	UKR18981_MordovetsDviDoli	UKR18981	Мордовець, Данило [Данило Мордовцев]	Дві долі. Повість	1830	1905	M	viaf:2884077	1898	1898	NA	NA	NA	NA	uk	40482	NA	NA	short	low	T3
+ELTeC-ukr	UKR18992_KonyskyiBabaIavdokha	UKR18992	Кониський, Олександр	Баба Явдоха	1836	1900	M	viaf:21985169	1899	NA	NA	1899	NA	NA	uk	15198	NA	NA	short	low	T3
+ELTeC-ukr	UKR18991_KonyskyiKhvoraDusha	UKR18991	Кониський, Олександр	Хвора душа (споминки баби Оришки Прядчихи)	1836	1900	M	viaf:21985169	1899	NA	NA	1899	NA	NA	uk	9324	NA	NA	short	low	T3
+ELTeC-ukr	UKR19001_FrankoPerekhresniStezhky	UKR19001	Франко, Іван	Перехресні стежки	1856	1916	M	viaf:10637190	1900	NA	NA	1900	NA	viaf:8324152140006711100006	uk	93967	NA	NA	medium	high	T4
+ELTeC-ukr	UKR19012_UkrainkaNadMorem	UKR19012	Українка, Леся [Лариса Косач]	Над морем. Оповідання	1871	1913	F	viaf:22278310	1901	1901	NA	NA	NA	NA	uk	9517	NA	NA	short	high	T4
+ELTeC-ukr	UKR19022_KobylianskaZemlia	UKR19022	Кобилянська, Ольга	Земля. Оповідання	1863	1942	F	viaf:317288905	1902	1902	NA	NA	NA	viaf:1323151965444500470002	uk	95382	NA	NA	medium	high	T4
+ELTeC-ukr	UKR19023_MakoveiKlopotySavchykhy	UKR19023	Маковей, Осип	Клопоти Савчихи	1867	1925	M	viaf:62450998	1902	NA	NA	1902	NA	NA	uk	13637	NA	NA	short	low	T4
+ELTeC-ukr	UKR19021_HrinchenkoPidTykhymyVerbamy	UKR19021	Грінченко, Борис	Під тихими вербами	1863	1910	M	viaf:30853725	1902	NA	NA	1902	NA	NA	uk	63170	NA	NA	medium	high	T4
+ELTeC-ukr	UKR19024_RomanovaAkula	UKR19024	Романова, Одарка	Акула. Оповідання	1853	1922	F	viaf:315198175	1902	1902	NA	NA	NA	NA	uk	10557	NA	NA	short	low	T4
+ELTeC-ukr	UKR19052_UkrainkaPryiazn	UKR19052	Українка, Леся [Лариса Косач]	Приязнь (Оповідання з життя волинського Полісся)	1871	1913	F	viaf:22278310	1905	NA	NA	1905	NA	NA	uk	16757	NA	NA	short	high	T4
+ELTeC-ukr	UKR19051_CherniavskyiVaeVictis	UKR19051	Чернявський, Микола	Vae victis!.. (Оповідання)	1868	1938	M	viaf:85518319	1905	1905	NA	NA	NA	NA	uk	14089	NA	NA	short	low	T4
+ELTeC-ukr	UKR19091_KobylianskaVNediliuRanoZilliaKopala	UKR19091	Кобилянська, Ольга	В неділю рано зілля копала. (Оповідання)	1863	1942	F	viaf:317288905	1909	1909	NA	NA	NA	viaf:308167509	uk	54893	NA	NA	medium	high	T4
+ELTeC-ukr	UKR19092_MyrnyiDurnytsia	UKR19092	Мирний, Панас [Панас Рудченко]	Дурниця. Оповіданнє	1849	1920	M	viaf:885380	1909	1909	NA	NA	NA	NA	uk	14651	NA	NA	short	low	T4
+ELTeC-ukr	UKR19101_HrinchenkoBratNaBrata	UKR19101	Грінченко, Борис	Брат на брата. Оповідання	1863	1910	M	viaf:30853725	1910	NA	NA	1910	NA	NA	uk	13085	NA	NA	short	high	T4
+ELTeC-ukr	UKR19113_VorobkevychMestChornohortsia	UKR19113	Воробкевич, Сидір	Месть чорногорця. Образ з минувшости сербських чорногорців	1836	1903	M	viaf:47672927	1911	NA	NA	1911	NA	NA	uk	11275	NA	NA	short	low	T4
+ELTeC-ukr	UKR19111_TeslenkoStracheneZhyttie	UKR19111	Тесленко, Архип	Страчене життє	1882	1911	M	viaf:11176389	1911	1911	NA	NA	NA	NA	uk	11589	NA	NA	short	high	T4
+ELTeC-ukr	UKR19112_KhotkevychKaminnaDushia	UKR19112	Хоткевич, Гнат	Камінна душя	1878	1938	M	viaf:120784607	1911	NA	NA	1911	NA	viaf:313671078	uk	89253	NA	NA	medium	low	T4
+ELTeC-ukr	UKR19121_KotsiubynskyiTiniZabutykhPredkiv	UKR19121	Коцюбинський, Михайло	Тіні забутих предків.	1864	1913	M	viaf:46803069	1912	1912	NA	NA	NA	viaf:4930147270558935700006	uk	15953	NA	NA	short	high	T4
+ELTeC-ukr	UKR19122_IatskivBlyskavytsi	UKR19122	Яцків, Михайло	Блискавиці. Суспільна студія	1873	1961	M	viaf:64417173	1912	1912	NA	NA	NA	NA	uk	22943	NA	NA	short	high	T4
+ELTeC-ukr	UKR19172_VynnychenkoZapyskyKyrpatohoMefistofelia	UKR19172	Винниченко, Володимир	Записки Кирпатого Мефістофеля. Роман	1880	1951	M	viaf:817403	1917	1917	NA	NA	NA	viaf:6559153063225319320005	uk	71274	NA	NA	medium	high	T4
+ELTeC-ukr	UKR19171_MartovychZabobon	UKR19171	Мартович, Лесь	Забобон. Повість	1871	1916	M	viaf:62616875	1917	NA	NA	1917	NA	NA	uk	83339	NA	NA	medium	high	T4
+ELTeC-ukr	UKR19181_NazarukKniazYaroslavOsmomysl	UKR19181	Назарук, Осип	Князь Ярослав Осмомисл. Історична повість	1883	1940	M	viaf:13653395	1918	NA	NA	1918	NA	NA	uk	105415	NA	NA	long	low	T4
+ELTeC-ukr	UKR19191_KashchenkoBortsiZaPravdu	UKR19191	Кащенко, Адріан	Борці за правду. Історичне оповідання	1858	1921	M	viaf:57532978	1919	NA	NA	1919	NA	NA	uk	36730	NA	NA	short	high	T4
+ELTeC-ukr	UKR19192_KashchenkoZDnipraNaDunai	UKR19192	Кащенко, Адріан	З Дніпра на Дунай. Оповідання з часів скасування Запорозької Січі	1858	1921	M	viaf:57532978	1919	NA	NA	1919	NA	NA	uk	21122	NA	NA	short	low	T4
+ELTeC-ukr	UKR19193_KashchenkoPidKorsunem	UKR19193	Кащенко, Адріан	Під Корсунем. Історична повість	1858	1921	M	viaf:57532978	1919	NA	NA	1919	NA	NA	uk	31471	NA	NA	short	high	T4
+ELTeC-ukr	UKR19201_KorolivChmelyk	UKR19201	Королів-Старий, Василь	Чмелик. Роман для юнацтва з ілюстраціями	1879	1943	M	viaf:268146574018038102431	1920	NA	NA	1920	NA	NA	uk	152676	NA	NA	long	low	T4
